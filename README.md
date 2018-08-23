@@ -1,0 +1,2 @@
+# sigma
+querys do sigma
